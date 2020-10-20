@@ -10,6 +10,9 @@
           <field name="name"/>
           <field name="value"/>
           <field name="value2"/>
+          <field name="custom_field_1"/>
+          <field name="pos_x"/>
+          <field name="pos_y"/>
         </tree>
       </field>
     </record>
