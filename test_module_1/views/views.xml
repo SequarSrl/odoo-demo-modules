@@ -13,6 +13,9 @@
           <field name="custom_field_1"/>
           <field name="pos_x"/>
           <field name="pos_y"/>
+          <field name="value3"/>
+          <field name="height"/>
+          <field name="width"/>
         </tree>
       </field>
     </record>
