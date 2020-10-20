@@ -15,6 +15,8 @@
 #     description = fields.Text()
 #     pos_x = fields.Integer()
 #     pos_y = fields.Integer()
+#     height = fields.Integer()
+#     width = fields.Integer()
 #
 #     @api.depends('value')
 #     def _value_pc(self):
