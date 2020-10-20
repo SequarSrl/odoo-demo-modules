@@ -12,6 +12,8 @@
 #     value2 = fields.Float(compute="_value_pc", store=True)
 #     custom_field_1 = fields.Integer()
 #     description = fields.Text()
+#     pos_x = fields.Integer()
+#     pos_y = fields.Integer()
 #
 #     @api.depends('value')
 #     def _value_pc(self):
