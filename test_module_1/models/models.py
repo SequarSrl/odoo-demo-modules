@@ -11,6 +11,7 @@
 #     value = fields.Integer()
 #     value2 = fields.Float(compute="_value_pc", store=True)
 #     custom_field_1 = fields.Integer()
+#     value3 = fields.integer()
 #     description = fields.Text()
 #     pos_x = fields.Integer()
 #     pos_y = fields.Integer()
